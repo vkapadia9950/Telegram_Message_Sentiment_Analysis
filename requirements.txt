@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+vaderSentiment
+spacy_langdetect
+tqdm
+spacy==2.2.4
+nltk
